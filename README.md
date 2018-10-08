@@ -1,4 +1,4 @@
-### DOM Observer
+## DOM Observer
 
 > Project DOM Observer<br/>
 > Developer: Fabricio Paulo<br/>
